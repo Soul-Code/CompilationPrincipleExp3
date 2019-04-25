@@ -1,0 +1,59 @@
+in:
+
+ConSt A2=10;
+var B,c2q;
+procedure p;
+begin;
+    var D@23;
+    c2q:=D@23+9!;
+end;
+begin;
+read(b);
+call p;
+end;
+
+out:
+
+(constsym,const)
+(ident,a2)
+(eql,=)
+(number,10)
+(semicolon,;)
+(varsym,var)
+(ident,b)
+(comma,,)
+(ident,c2q)
+(semicolon,;)
+(porceduresym,procedure)
+(ident,p)
+(semicolon,;)
+(beginsym,begin)
+(semicolon,;)
+(varsym,var)
+(ident,d)
+(nul,@)
+(number,23)
+(semicolon,;)
+(ident,c2q)
+(becomes,:=)
+(ident,d)
+(nul,@)
+(number,23)
+(plus,+)
+(number,9)
+(nul,!)
+(semicolon,;)
+(endsym,end)
+(semicolon,;)
+(beginsym,begin)
+(semicolon,;)
+(readsym,read)
+(lparen,()
+(ident,b)
+(rparen,))
+(semicolon,;)
+(callsym,call)
+(ident,p)
+(semicolon,;)
+(endsym,end)
+(semicolon,;)

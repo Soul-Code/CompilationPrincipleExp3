@@ -1,0 +1,76 @@
+# depslib dependency file v1.0
+1555378573 source:d:\19骞存槬瀛缂栬瘧鍘熺悊\plo\main.cpp
+	<iostream>
+	<fstream>
+	<flag.h>
+	<parser.h>
+
+1555376067 d:\19骞存槬瀛缂栬瘧鍘熺悊\plo\include\flag.h
+	<string>
+	<map>
+	<fstream>
+	<iostream>
+	<vector>
+
+1555376708 source:d:\19骞存槬瀛缂栬瘧鍘熺悊\plo\src\flag.cpp
+	"flag.h"
+
+1555378438 source:d:\19骞存槬瀛缂栬瘧鍘熺悊\plo\src\parser.cpp
+	"parser.h"
+
+1555379703 d:\19骞存槬瀛缂栬瘧鍘熺悊\plo\include\parser.h
+	<string>
+	<fstream>
+	<iostream>
+	<regex>
+
+1555376708 source:d:\users\thinkpad\documents\大三\大三春季学期\编译原理\实验\文法\plo\plo\src\flag.cpp
+	"flag.h"
+
+1555380193 d:\users\thinkpad\documents\大三\大三春季学期\编译原理\实验\文法\plo\plo\include\flag.h
+	<string>
+	<map>
+	<fstream>
+	<iostream>
+	<vector>
+
+1555651537 source:d:\users\thinkpad\documents\大三\大三春季学期\编译原理\实验\文法\plo\plo\src\parser.cpp
+	"parser.h"
+
+1555650679 d:\users\thinkpad\documents\大三\大三春季学期\编译原理\实验\文法\plo\plo\include\parser.h
+	<string>
+	<fstream>
+	<iostream>
+	<regex>
+
+1555646399 source:d:\users\thinkpad\documents\大三\大三春季学期\编译原理\实验\文法\plo\plo\main.cpp
+	<iostream>
+	<fstream>
+	<flag.h>
+	<parser.h>
+
+1556112673 source:d:\lenovo\documents\我的课程\编译原理\实验们\hchexp3\src\flag.cpp
+	"flag.h"
+
+1555380193 d:\lenovo\documents\我的课程\编译原理\实验们\hchexp3\include\flag.h
+	<string>
+	<map>
+	<fstream>
+	<iostream>
+	<vector>
+
+1556168139 source:d:\lenovo\documents\我的课程\编译原理\实验们\hchexp3\main.cpp
+	<iostream>
+	<fstream>
+	<flag.h>
+	<parser.h>
+
+1556170256 d:\lenovo\documents\我的课程\编译原理\实验们\hchexp3\include\parser.h
+	<string>
+	<fstream>
+	<iostream>
+	<regex>
+
+1556172522 source:d:\lenovo\documents\我的课程\编译原理\实验们\hchexp3\src\parser.cpp
+	"parser.h"
+
